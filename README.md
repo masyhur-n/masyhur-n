@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2DD4BF&height=200&section=header&text=Nailah%20Masyhur&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=physics%20%40%20universitas%20indonesia&descSize=18&descAlignY=58" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1400&color=2DD4BF&center=true&vCenter=true&width=700&lines=materials+%C3%97+data+%C3%97+design;coatings+%C2%B7+corrosion+%C2%B7+2D+materials;jakarta+%E2%86%92+pohang+%E2%86%92+back+to+the+lab" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1400&color=2DD4BF&center=true&vCenter=true&width=700&lines=materials+%C3%97+data+%C3%97+design;coatings+%C2%B7+corrosion+%C2%B7+2D+materials;back+to+the+lab" alt="typing" />
 </p>
 
 <p align="center">
