@@ -19,7 +19,7 @@ $ ls ~/labs
 UI_corrosion_lab/   BRIN/   POSTECH_korea/
 
 $ sudo stop-corrosion --all
-permission denied: rust always wins. fighting it anyway.
+permission denied: fighting it anyway.
 
 $ sleep 8h
 command not found
