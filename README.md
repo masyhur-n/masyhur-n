@@ -64,7 +64,7 @@ command not found
 
 | project | what it does |
 | :---: | :---: |
-| corrosion-analysis | polarization curves & Tafel analysis in Python · *soon* |
+| corrosion-analysis | *soon* |
 
 </div>
 
