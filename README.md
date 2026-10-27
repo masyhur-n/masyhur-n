@@ -16,10 +16,6 @@ $ cat focus.txt
 coatings · corrosion · 2D materials · biomedical implants
 
 $ ls ~/labs
-UI_corrosion_lab/   BRIN/   POSTECH_korea/
-
-$ sudo stop-corrosion --all
-permission denied: fighting it anyway.
 
 $ sleep 8h
 command not found
@@ -64,7 +60,7 @@ command not found
 
 | project | what it does |
 | :---: | :---: |
-| corrosion-analysis | *soon* |
+| Excitonic Insulator-analysis | *soon* |
 
 </div>
 
